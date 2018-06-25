@@ -1,0 +1,109 @@
+body {
+    /*background-color: #272C32;*/
+    background-color: #002942;
+    color: #63b9e9;
+}
+
+.menu {
+    background-color: #63b9e9;
+}
+
+.contenido {
+    margin-top: 40px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.list-group-item, .list-group-item:visited {
+    background-color: #363B41;
+    color: white;
+}
+
+    .list-group-item.active {
+        background-color: #007bff !important;
+        color: white;
+    }
+
+    .list-group-item:hover {
+        background-color: #9E9E9E;
+        color: white;
+    }
+
+.botones {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.modal-backdrop {
+    z-index: 1000 !important;
+}
+
+.modal {
+    color: black;
+}
+
+/*.carta {
+    background-color: #363B41;
+}*/
+
+.list-group-item, .list-group-item:visited {
+    background-color: #363B41;
+    color: white;
+}
+
+    .list-group-item.active {
+        background-color: #007bff !important;
+        color: white;
+    }
+
+    .list-group-item:hover {
+        background-color: #9E9E9E;
+        color: white;
+    }
+
+.imagen-evento {
+    height: 200px;
+    width: auto !important;
+}
+
+.editar {
+    cursor: pointer;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 20px;
+    right: 20px;
+}
+
+.izquierda {
+    margin-right: 40px !important;
+}
+
+.colorpicker {
+    z-index: 111111 !important;
+}
+
+.file-zoom-dialog {
+    z-index: 9999 !important;
+}
+
+.form-row {
+    margin-top: 10px;
+}
+
+.actividades {
+    padding: 50px;
+}
+
+.blockOverlay {
+    z-index: 9999 !important;
+}
+
+.blockPage {
+    z-index: 10000 !important;
+}
+
+.cerrarblanco {
+    color: white;
+}
